@@ -11,3 +11,12 @@ First, install the AWS Command Line Interface (CLI).
 You need to configure AWS by running the following command:
 ```bash
 aws configure
+
+### step 3:
+run following command for python:
+```bash
+pip install boto3
+
+run following command for node:
+```bash
+npm install aws-sdk
