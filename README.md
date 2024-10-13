@@ -21,3 +21,4 @@ run following command for node:
 ```bash
 npm install aws-sdk
 ```
+### step 4: follow the demo code syntext as descripted
